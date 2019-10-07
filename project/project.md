@@ -22,11 +22,15 @@ flutter doctor
 - We'll use the Foursquare API to browse the venues.
 - Create a developer account on their [website](https://developer.foursquare.com)
 
-### Step 2 : Create a new project
+### Step 2 : Create an app in your developer account
+
+This will give you the secrets required to call the API
+
+### Step 3 : Create a new project
 
 Create a new project using your IDE or the flutter CLI
 
-### Step 3 : Develop the app
+### Step 4 : Develop the app
 
 The app must have atleast 2 screens
 
