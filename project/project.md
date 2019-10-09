@@ -67,3 +67,19 @@ Write a short report (1-2 pages) which answers this question :
 - Take a look at the [ex4](../ex4) to find examples of Navigation, Click handling, etc
 - [Venues API link](https://developer.foursquare.com/docs/api/venues/search)
 - Dart has a packagage manager (like NPM)
+- To get the icons : 
+```
+Pieces needed to construct category icons at various sizes.
+Combine prefix with a size (32, 44, 64, and 88 are available) and suffix.
+Example https://foursquare.com/img/categories/food/default_64.png.
+To get an image with a gray background, use bg_ before the size.
+Example : https://foursquare.com/img/categories_v2/food/icecream_bg_32.png.
+```
+- To get the pictures :
+```
+To assemble a photo URL, combine the response’s prefix + size + suffix.
+Ex: https://igx.4sqi.net/img/general/300x500/5163668_xXFcZo7sU8aa1ZMhiQ2kIP7NllD48m7qsSwr1mJnFj4.jpg
+
+size can be one of the following, where XX or YY is one of 36, 100, 300, or 500.
+```
+size can be one of the following, where XX or YY is one of 36, 100, 300, or 500.
