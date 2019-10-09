@@ -82,4 +82,6 @@ Ex: https://igx.4sqi.net/img/general/300x500/5163668_xXFcZo7sU8aa1ZMhiQ2kIP7NllD
 
 size can be one of the following, where XX or YY is one of 36, 100, 300, or 500.
 ```
-size can be one of the following, where XX or YY is one of 36, 100, 300, or 500.
+- There is [an endpoint for the venue's pictures](https://developer.foursquare.com/docs/api/venues/photos)
+
+- There is [an endpoint for the venue's comments](https://developer.foursquare.com/docs/api/venues/tips)
