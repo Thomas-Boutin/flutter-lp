@@ -28,7 +28,12 @@ This will give you the secrets required to call the API
 
 ### Step 3 : Create a new project
 
-Create a new project using your IDE or the flutter CLI
+- Create a new project using your IDE or the flutter CLI
+- Be careful : you should put your secrets in a gitignored file.
+- For instance : create a file "env.dart" in lib/
+- Define one constant for each secret
+- Add en entry in the .gitignore for this file
+
 
 ### Step 4 : Develop the app
 
