@@ -65,5 +65,5 @@ Write a short report (1-2 pages) which answers this question :
 ## Tips & Tricks
 
 - Take a look at the [ex4](../ex4) to find examples of Navigation, Click handling, etc
-- [Venues API link](https://developer.foursquare.com/docs/api/venues/)
+- [Venues API link](https://developer.foursquare.com/docs/api/venues/search)
 - Dart has a packagage manager (like NPM)
