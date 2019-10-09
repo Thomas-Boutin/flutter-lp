@@ -72,7 +72,7 @@ Write a short report (1-2 pages) which answers this question :
 - Take a look at the [ex4](../ex4) to find examples of Navigation, Click handling, etc
 - [HTTP call](https://flutter.dev/docs/cookbook/networking/fetch-data)
 - [Venues API link](https://developer.foursquare.com/docs/api/venues/search)
-- Dart has a packagage manager (like NPM)
+- [Dart has a packagage manager (like NPM)](https://pub.dev/]
 - To get the icons : 
 ```
 Pieces needed to construct category icons at various sizes.
