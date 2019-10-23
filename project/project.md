@@ -24,7 +24,8 @@ flutter doctor
 
 ### Step 2 : Create an app in your developer account
 
-This will give you the secrets required to call the API
+- This will give you the secrets required to call the API
+- You can provide whatever you want as a website URL
 
 ### Step 3 : Create a new project
 
