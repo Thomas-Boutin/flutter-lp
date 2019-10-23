@@ -46,7 +46,7 @@ The app must have atleast 2 screens
 This screen must at least :
 
 - Have one input to let the user choose the location of his search
-- Have one input to let the user choose what he'd like to find as venue
+- Have one input to let the user choose what he wanna search (ie: Bars, Restaurants, etc)
 - Have one submit button to let the user perform the search
 - Have one list which will contain the results of the query
   - Each result must have a title and an icon
