@@ -34,6 +34,7 @@ flutter doctor
 - For instance : create a file "env.dart" in lib/
 - Define one constant for each secret
 - Add en entry in the .gitignore for this file
+- [Don't forget to add the internet permission in android/app/AndroidManifest.xml](https://stackoverflow.com/questions/2378607/what-permission-do-i-need-to-access-internet-from-an-android-application)
 
 
 ### Step 4 : Develop the app
